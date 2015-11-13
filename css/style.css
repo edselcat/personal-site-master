@@ -14,13 +14,14 @@ body {
 }
 
 header{
-	text-align: left;
+	text-align: center;
 	font-size: 1em;
 	font-family: 'Anonymous Pro', 700;
 	line-height: 2em;
 	font-weight: bold;
 	letter-spacing: .5em;
 	padding-top: 1%;
+	word-spacing: 2em;
 }
 h1{
 	font-family: 'Anonymous Pro', 700;
@@ -79,7 +80,7 @@ a{
 	border-right-width: 1px;
 	border-left-width: 1px;
 	border-style: dotted;
-	border-color: #49708A;
+	border-color: #FF0066;
 	padding: 0;
 	margin: 0;
 }
